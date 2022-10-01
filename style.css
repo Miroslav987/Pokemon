@@ -1,0 +1,60 @@
+body {
+  background-image: url(https://abrakadabra.fun/uploads/posts/2022-01/1641086710_1-abrakadabra-fun-p-anime-fon-ulitsa-nochyu-pereulok-1.jpg);
+  height: 700px;
+}
+.bd {
+  display: flex;
+  background-color: rgba(0, 0, 0, 0.3);
+  height: 100%;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+#list {
+  margin: 50px;
+  width: 370px;
+  height: 700px;
+  border-radius: 10px;
+  border: 2px solid aqua;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+#list p {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  width: 120px;
+  height: 40px;
+  background-color: rgb(0 9 58 / 5%);
+  border: 2px solid aqua;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  margin: 15px 10px 10px 10px;
+}
+#block {
+  color: #ffffff;
+  margin-top: 150px;
+  margin-left: 200px;
+  width: 600px;
+  height: 500px;
+  border-radius: 10px;
+  border: 2px solid aqua;
+  background-color: rgba(0, 0, 0, 0.557);
+}
+
+#photo img {
+  margin-left: 120px;
+  width: 350px;
+  height: 300px;
+}
+#text p {
+  letter-spacing: 2px;
+  font-size: 20px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-align: center;
+}
